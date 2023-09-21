@@ -9,7 +9,7 @@
    <a href="https://wa.me/5584981482416">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:rianrdx0@gmail.com">
+  <a href="mailto:jvfernandesg4@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </p>
