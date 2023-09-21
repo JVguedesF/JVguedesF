@@ -45,6 +45,23 @@
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
+<h2 align="center"> My Repositories </h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/JVguedesF/learning-1" title="Learning 1"><img align="left" width="450" height="230" src="https://github-readme-stats.vercel.app/api/pin/?username=JVguedesF&repo=learning-1&theme=react&border_color=transparent&bg_color=0d1117&border_radius=10"></a>
+  <a align="right" href="https://github.com/JVguedesF/learning-2" title="Learning 2"><img align="right" width="450" height="230" src="https://github-readme-stats.vercel.app/api/pin/?username=JVguedesF&repo=learning-2&theme=react&border_color=transparent&bg_color=0d1117&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/JVguedesF/learning-3" title="Learning 3"><img align="left" width="450" height="230" src="https://github-readme-stats.vercel.app/api/pin/?username=JVguedesF&repo=learning-3&theme=react&border_color=transparent&bg_color=0d1117&border_radius=10"></a>
+  <!-- Deixe esta linha vazia para adicionar o quarto repositório posteriormente -->
+</div>
+
+
+
+
+
+
 <br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
