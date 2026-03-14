@@ -1,21 +1,49 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor+Guedes+Fernandes;student+Back+-+end;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<p align="center">
+<img width="100%" src="./header.svg"/>
 
 <br/>
 
-<p align="center">
-  Technologies I use
-</p>
+## hi,
 
+A **Bioinformatics student** from Rio Grande do Norte, Brazil.
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<br/>
+
+### About Me
+```python
+class JoaoVitor:
+    name     = "João Vitor Guedes Fernandes"
+    area     = "Studying Bioinformatics (and lovin' it)"
+    location = "Rio Grande do Norte, Brazil"
+    status   = "Tripping over the crosswalk between biology and code"
+```
+
+<br/>
+
+### Technologies I use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c9ff32)
+![R](https://img.shields.io/badge/R-1a1a1a?style=for-the-badge&logo=r&logoColor=c9ff32)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=c9ff32)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=c9ff32)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=c9ff32)
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<br/>
+
+### Stats & Projects
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVguedesF&layout=compact&langs_count=6&theme=github_dark&border_color=c9ff32&title_color=c9ff32&bg_color=1a1a1a&text_color=cccccc"/>
+<a href="https://github.com/JVguedesF/p53-regulatory-network">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=JVguedesF&repo=p53-regulatory-network&theme=github_dark&border_color=c9ff32&title_color=c9ff32&icon_color=c9ff32&bg_color=1a1a1a&text_color=cccccc"/>
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="./footer.svg"/>
