@@ -15,7 +15,7 @@ class JoaoVitor:
     status   = "Tripping over the crosswalk between biology and code"
 ```
 
-### Stats & Projects
+### Stats & Current project
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
