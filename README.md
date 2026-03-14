@@ -2,12 +2,11 @@
 
 <br/>
 
-# hi, 👋
+## hi, 👋
 
 <br/>
 
 ### About Me
-
 ```python
 class JoaoVitor:
     name     = "João Vitor Guedes Fernandes"
@@ -18,14 +17,18 @@ class JoaoVitor:
 
 ### Stats & Projects
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVguedesF&layout=compact&langs_count=6&theme=github_dark&border_color=c9ff32&title_color=c9ff32&bg_color=1a1a1a&text_color=cccccc"/>
-<a href="https://github.com/JVguedesF/p53-regulatory-network">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=JVguedesF&repo=p53-regulatory-network&theme=github_dark&border_color=c9ff32&title_color=c9ff32&icon_color=c9ff32&bg_color=1a1a1a&text_color=cccccc"/>
-</a>
-
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVguedesF&layout=compact&langs_count=6&theme=github_dark&border_color=c9ff32&title_color=c9ff32&bg_color=1a1a1a&text_color=cccccc"/>
+    </td>
+    <td>
+      <a href="https://github.com/JVguedesF/p53-regulatory-network">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=JVguedesF&repo=p53-regulatory-network&theme=github_dark&border_color=c9ff32&title_color=c9ff32&icon_color=c9ff32&bg_color=1a1a1a&text_color=cccccc"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -40,5 +43,7 @@ class JoaoVitor:
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=c9ff32)
 
 </div>
+
+<br/>
 
 <img width="100%" src="./footer.svg"/>
