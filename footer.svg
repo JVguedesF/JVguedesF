@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <rect width="900" height="80" fill="#1a1a1a"/>
+  <g stroke="#c9ff32" stroke-width="0.5" opacity="0.25">
+    <line x1="20"  y1="48" x2="95"  y2="25"/>
+    <line x1="95"  y1="25" x2="170" y2="55"/>
+    <line x1="170" y1="55" x2="245" y2="18"/>
+    <line x1="245" y1="18" x2="320" y2="45"/>
+    <line x1="320" y1="45" x2="400" y2="22"/>
+    <line x1="400" y1="22" x2="475" y2="58"/>
+    <line x1="475" y1="58" x2="548" y2="30"/>
+    <line x1="548" y1="30" x2="625" y2="60"/>
+    <line x1="625" y1="60" x2="700" y2="20"/>
+    <line x1="700" y1="20" x2="775" y2="50"/>
+    <line x1="775" y1="50" x2="858" y2="18"/>
+    <line x1="95"  y1="25" x2="245" y2="18"/>
+    <line x1="320" y1="45" x2="475" y2="58"/>
+    <line x1="548" y1="30" x2="700" y2="20"/>
+    <line x1="625" y1="60" x2="775" y2="50"/>
+  </g>
+  <g fill="#c9ff32">
+    <circle cx="20"  cy="48" r="2"   opacity="0.75"/>
+    <circle cx="95"  cy="25" r="2.5" opacity="0.9"/>
+    <circle cx="170" cy="55" r="1.5" opacity="0.5"/>
+    <circle cx="245" cy="18" r="2"   opacity="0.8"/>
+    <circle cx="320" cy="45" r="1.5" opacity="0.6"/>
+    <circle cx="400" cy="22" r="3"   opacity="1.0"/>
+    <circle cx="475" cy="58" r="1.5" opacity="0.55"/>
+    <circle cx="548" cy="30" r="2"   opacity="0.7"/>
+    <circle cx="625" cy="60" r="1.5" opacity="0.5"/>
+    <circle cx="700" cy="20" r="2.5" opacity="0.85"/>
+    <circle cx="775" cy="50" r="1.5" opacity="0.6"/>
+    <circle cx="858" cy="18" r="2"   opacity="0.8"/>
+    <circle cx="55"  cy="15" r="1"   opacity="0.25"/>
+    <circle cx="130" cy="68" r="1"   opacity="0.2"/>
+    <circle cx="205" cy="8"  r="1"   opacity="0.3"/>
+    <circle cx="365" cy="68" r="1"   opacity="0.2"/>
+    <circle cx="438" cy="12" r="1"   opacity="0.25"/>
+    <circle cx="510" cy="65" r="1"   opacity="0.2"/>
+    <circle cx="585" cy="10" r="1"   opacity="0.25"/>
+    <circle cx="660" cy="65" r="1"   opacity="0.2"/>
+    <circle cx="735" cy="8"  r="1"   opacity="0.3"/>
+    <circle cx="815" cy="65" r="1"   opacity="0.2"/>
+    <circle cx="880" cy="55" r="1"   opacity="0.25"/>
+  </g>
+</svg>
