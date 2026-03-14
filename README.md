@@ -2,13 +2,12 @@
 
 <br/>
 
-## hi,
-
-A **Bioinformatics student** from Rio Grande do Norte, Brazil.
+# hi, 👋
 
 <br/>
 
 ### About Me
+
 ```python
 class JoaoVitor:
     name     = "João Vitor Guedes Fernandes"
@@ -16,22 +15,6 @@ class JoaoVitor:
     location = "Rio Grande do Norte, Brazil"
     status   = "Tripping over the crosswalk between biology and code"
 ```
-
-<br/>
-
-### Technologies I use
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c9ff32)
-![R](https://img.shields.io/badge/R-1a1a1a?style=for-the-badge&logo=r&logoColor=c9ff32)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=c9ff32)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=c9ff32)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=c9ff32)
-
-</div>
-
-<br/>
 
 ### Stats & Projects
 
@@ -45,5 +28,17 @@ class JoaoVitor:
 </div>
 
 <br/>
+
+---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c9ff32)
+![R](https://img.shields.io/badge/R-1a1a1a?style=for-the-badge&logo=r&logoColor=c9ff32)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=c9ff32)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=c9ff32)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=c9ff32)
+
+</div>
 
 <img width="100%" src="./footer.svg"/>
