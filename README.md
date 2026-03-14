@@ -1,5 +1,3 @@
-<img width="100%" src="./header.svg"/>
-
 <br/>
 
 ## hi, 👋
