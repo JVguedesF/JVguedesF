@@ -10,7 +10,7 @@ class JoaoVitor:
     name     = "João Vitor Guedes Fernandes"
     area     = "Studying Bioinformatics (and lovin' it)"
     location = "Rio Grande do Norte, Brazil"
-    status   = "Tripping over the crosswalk between biology and code"
+    status   = "Tripping over the code, the biology, and everything in between"
 ```
 
 ### Stats & Current project
