@@ -9,7 +9,7 @@
 ```python
 class JoaoVitor:
     name     = "João Vitor Guedes Fernandes"
-    area     = "Studying Bioinformatics (and lovin' it)"
+    area     = "Studying Bioinformatics"
     location = "Rio Grande do Norte, Brazil"
     status   = "Tripping over the code, the biology, and everything in between"
 ```
